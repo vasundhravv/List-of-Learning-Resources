@@ -163,7 +163,7 @@ Pull requests are welcome 👍. For major changes, please open an issue first to
 [MIT](https://choosealicense.com/licenses/mit/)
 
 ------------------------------------
-## Contributors ✨
+<!--## Contributors ✨
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification for recognizing project contributors. 
 
@@ -174,7 +174,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
-<table>
+<!--<table>
   <tbody>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="http://slimcoder.wordpress.com"><img src="https://avatars.githubusercontent.com/u/28563357?v=4?s=100" width="100px;" alt="Slim Coder"/><br /><sub><b>Slim Coder</b></sub></a><br /><a href="#content-MRslimcoder" title="Content">🖋</a> <a href="https://github.com/jobream/List-of-Learning-Resources/issues?q=author%3AMRslimcoder" title="Bug reports">🐛</a> <a href="#blog-MRslimcoder" title="Blogposts">📝</a> <a href="https://github.com/jobream/List-of-Learning-Resources/commits?author=MRslimcoder" title="Code">💻</a> <a href="https://github.com/jobream/List-of-Learning-Resources/commits?author=MRslimcoder" title="Documentation">📖</a> <a href="https://github.com/jobream/List-of-Learning-Resources/pulls?q=is%3Apr+reviewed-by%3AMRslimcoder" title="Reviewed Pull Requests">👀</a> <a href="https://github.com/jobream/List-of-Learning-Resources/commits?author=MRslimcoder" title="Tests">⚠️</a> <a href="#example-MRslimcoder" title="Examples">💡</a></td>
@@ -211,7 +211,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Paras-96"><img src="https://avatars.githubusercontent.com/u/169983983?v=4?s=100" width="100px;" alt="Paras-96"/><br /><sub><b>Paras-96</b></sub></a><br /><a href="#content-Paras-96" title="Content">🖋</a></td>
     </tr>
   </tbody>
-</table>
+</table> -->
 
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
